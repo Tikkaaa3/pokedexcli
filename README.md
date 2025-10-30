@@ -101,4 +101,5 @@ Closing the Pokedex... Goodbye!
 ## License
 
 [MIT License](./LICENSE) © 2025 Emre Tolga Kaptan
+
 Pokémon and Pokémon character names are trademarks of Nintendo, Game Freak, and The Pokémon Company.
